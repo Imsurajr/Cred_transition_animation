@@ -3,7 +3,7 @@
 A new Flutter project.
 
 ## Goal
-I tried replicating the animation used in CRED app.
+I tried replicating the animation used in CRED app, using Flutter.
 The Goal was to replicate the animation which is being used in CRED app to smoothly animate from state 1 to state 2 (attached below), and for the purpose I have modified the Famous Hero animation a bit to suit the cause.
 
 ## Project Screenshots
